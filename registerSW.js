@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Shadow-clonu-jutsu/sw.js', { scope: '/Shadow-clonu-jutsu/' })})}
